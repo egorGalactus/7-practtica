@@ -57,7 +57,7 @@ namespace ConsoleApp3
         }
         public static void AddTransaction()
         {
-            Console.WriteLine("Введите категорию(Доход, Продукты, Транспорт, Развлечения, Прочие расходы):");
+            Console.WriteLine("Введите категорию(Расход, Продукты, Транспорт, Развлечения, Прочие расходы):");
             string category = Console.ReadLine();
             Console.Write("Введите сумму: ");
             double sum = Convert.ToInt32(Console.ReadLine());
