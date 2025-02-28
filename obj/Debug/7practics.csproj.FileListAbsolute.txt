@@ -1,0 +1,7 @@
+C:\Users\mikunoSRZ\source\repos\7practics\7practics\bin\Debug\7practics.exe.config
+C:\Users\mikunoSRZ\source\repos\7practics\7practics\bin\Debug\7practics.exe
+C:\Users\mikunoSRZ\source\repos\7practics\7practics\bin\Debug\7practics.pdb
+C:\Users\mikunoSRZ\source\repos\7practics\7practics\obj\Debug\7practics.csproj.AssemblyReference.cache
+C:\Users\mikunoSRZ\source\repos\7practics\7practics\obj\Debug\7practics.csproj.CoreCompileInputs.cache
+C:\Users\mikunoSRZ\source\repos\7practics\7practics\obj\Debug\7practics.exe
+C:\Users\mikunoSRZ\source\repos\7practics\7practics\obj\Debug\7practics.pdb
